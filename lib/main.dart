@@ -18,7 +18,7 @@ void main() {
     DeviceOrientation.portraitUp,
   ]).then((_) {
     runApp(MyApp()); // Lance l'application
-  });
+  });<
 }
 
 /* ============================================================
